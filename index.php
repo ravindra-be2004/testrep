@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="color: blue; font-size:48px">This is Blue Deployment!</h1>
+<h1 style="color: red; font-size:48px">Welcome to Red Hat OpenShift Container Platform !! </h1>
 <?php
 
 print "<br>";
