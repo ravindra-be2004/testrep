@@ -6,7 +6,7 @@
 
 print "<br>";
 print "<br>";
-print "<font color=blue; text-align: center; size='4pt'>  Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
+print "<font color=blue size='4pt'>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
 ?>
 
 </body>
