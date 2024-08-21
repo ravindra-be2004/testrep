@@ -13,7 +13,7 @@ print "<font color=blue size='5pt'>                Demos running on <b>Red Hat O
 <br />
 <br />
 <div>
-           <center> <img src="/src/images.png" alt="Red Hat" /> </center>
+           <center><marquee> <img src="/src/images.png" alt="Red Hat" /> </marquee></center>
         </div>
 </body>
 
