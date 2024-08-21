@@ -6,7 +6,7 @@
     <?php
 
 
-print "<font color=blue size='5pt'>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
+print "<font color=blue size='5pt' text-align=center>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
 ?>
 <br />
 <br />
