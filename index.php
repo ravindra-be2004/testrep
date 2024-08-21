@@ -9,7 +9,7 @@
 print "<font color=blue size='4pt'>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
 	?>
 <div>
-            <img src="/src/images.png" alt="myPic" />
+            <img src="/src/images.png" alt="Red Hat" align="center"  />
         </div>
 </body>
 
