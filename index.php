@@ -5,7 +5,7 @@
 <br />
 
     <?php
-print "<marquee font color=blue size='5'                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version  . PHP_VERSION . </marqee>" "\n"; 
+print "<marquee font color=blue size='5'                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version  . PHP_VERSION . </marqee>"; 
 ?>
 <br />
 <br />
