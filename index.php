@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
-
+<style>
+div {text-align: center;}
+</style>
 <body>
     <h1 style="color: red; text-align: center; font-size:48px"> Welcome to Red Hat OpenShift Container Platform !! </h1>
     <?php
 
-
-print "<font color=blue size='5pt'><center>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version "</center> . PHP_VERSION .  "\n"; 
+<div>
+print "<font color=blue size='5pt'>                Demos running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version " . PHP_VERSION .  "\n"; 
+</div>
 ?>
 <br />
 <br />
