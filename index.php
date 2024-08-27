@@ -5,7 +5,7 @@
 <br />
 
     <?php
-print "<font color=blue size='5pt'>                Demos Version 1 running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version:  "  . PHP_VERSION . "\n"; 
+print "<font color=blue size='5pt'>                Demo Version 2 running on <b>Red Hat OpenShift</b> PHP Builder Image with PHP version:  "  . PHP_VERSION . "\n"; 
 ?>
 <br />
 <br />
