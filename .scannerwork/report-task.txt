@@ -1,6 +1,0 @@
-projectKey=demo1
-serverUrl=http://sonar1-demo1.apps.ocp4.example.com
-serverVersion=9.9.8.100196
-dashboardUrl=http://sonar1-demo1.apps.ocp4.example.com/dashboard?id=demo1
-ceTaskId=AZZh56uox990xaApC_Eb
-ceTaskUrl=http://sonar1-demo1.apps.ocp4.example.com/api/ce/task?id=AZZh56uox990xaApC_Eb
